@@ -150,7 +150,7 @@ const Contact = () => {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
                 <div>
                   <label htmlFor="name" className="block text-dark-700 dark:text-dark-200 mb-2 font-medium">
-                    Pranesh
+                    Your Name
                   </label>
                   <input
                     type="text"
