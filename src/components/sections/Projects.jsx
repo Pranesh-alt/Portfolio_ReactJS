@@ -26,7 +26,7 @@ const Projects = () => {
     {
       title: 'Portfolio Website',
       description: 'A responsive portfolio website built with modern technologies to showcase creative work and professional experience.',
-      image: 'hhttps://firebasestorage.googleapis.com/v0/b/comics-tv-8e695.appspot.com/o/Images%2FHome%20Page%2FOTT.webp?alt=media&token=d2525093-04c8-458e-ae55-1bd576535940',
+      image: 'https://firebasestorage.googleapis.com/v0/b/comics-tv-8e695.appspot.com/o/Images%2FHome%20Page%2FOTT.webp?alt=media&token=d2525093-04c8-458e-ae55-1bd576535940',
       technologies: ['React', 'TailwindCSS', 'Framer Motion'],
       github: 'https://github.com',
       demo: 'portfolio-react-js-peach-psi.vercel.app'
