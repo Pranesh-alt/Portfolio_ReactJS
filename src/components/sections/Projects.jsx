@@ -11,7 +11,7 @@ const Projects = () => {
       description: 'Comics TV is a web application that allows users to watch and manage their favorite comic series.',
       image: 'https://firebasestorage.googleapis.com/v0/b/comics-tv-8e695.appspot.com/o/Images%2FHome%20Page%2FOTT.webp?alt=media&token=d2525093-04c8-458e-ae55-1bd576535940',
       technologies: [ 'Express Js', 'Node.js', 'MySQL'],
-      github: 'https://github.com',
+      github: 'https://github.com/Pranesh-alt/Node-JS-OTT',
       demo: 'https://node-js-ott-6.onrender.com/'
     },
     {
@@ -19,7 +19,7 @@ const Projects = () => {
       description: 'A web application for tracking personal expenses, providing insights into spending habits and budget management.',
       image: 'https://firebasestorage.googleapis.com/v0/b/comics-tv-8e695.appspot.com/o/Images%2FHome%20Page%2FExpense_tracker.webp?alt=media&token=02e73033-1a12-449f-b846-35cccfb34bf5',
       technologies: ['Python', 'FastAPI', 'MySQL'],
-      github: 'https://github.com',
+      github: 'https://github.com/Pranesh-alt/Expense_tracker',
       demo: 'https://demo.com'
     },
     
