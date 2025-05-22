@@ -24,7 +24,7 @@ const About = () => {
               <div className="absolute -inset-4 rounded-xl bg-gradient-to-tr from-primary-500 to-secondary-500 opacity-20 blur-lg"></div>
               <div className="relative rounded-xl overflow-hidden">
                 <img
-                  src="/src/assets/WhatsApp Image 2025-05-22 at 4.50.37 PM.jpeg"
+                  src="https://firebasestorage.googleapis.com/v0/b/comics-tv-8e695.appspot.com/o/Images%2FHome%20Page%2FWhatsApp%20Image%202025-05-22%20at%204.50.37%20PM.jpeg?alt=media&token=7cede0a2-0da4-4379-bc0e-b846226d9443"
                   alt="Your Name working"
                   className="w-full h-auto object-cover"
                 />

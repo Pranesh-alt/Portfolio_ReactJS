@@ -17,7 +17,7 @@ const Projects = () => {
     {
       title: 'Expense Tracker',
       description: 'A web application for tracking personal expenses, providing insights into spending habits and budget management.',
-      image: '/src/assets/Expense_tracker.webp',
+      image: 'https://firebasestorage.googleapis.com/v0/b/comics-tv-8e695.appspot.com/o/Images%2FHome%20Page%2FExpense_tracker.webp?alt=media&token=02e73033-1a12-449f-b846-35cccfb34bf5',
       technologies: ['Python', 'FastAPI', 'MySQL'],
       github: 'https://github.com',
       demo: 'https://demo.com'
@@ -26,7 +26,7 @@ const Projects = () => {
     {
       title: 'Portfolio Website',
       description: 'A responsive portfolio website built with modern technologies to showcase creative work and professional experience.',
-      image: 'https://images.pexels.com/photos/5926393/pexels-photo-5926393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+      image: 'hhttps://firebasestorage.googleapis.com/v0/b/comics-tv-8e695.appspot.com/o/Images%2FHome%20Page%2FOTT.webp?alt=media&token=d2525093-04c8-458e-ae55-1bd576535940',
       technologies: ['React', 'TailwindCSS', 'Framer Motion'],
       github: 'https://github.com',
       demo: 'portfolio-react-js-peach-psi.vercel.app'
