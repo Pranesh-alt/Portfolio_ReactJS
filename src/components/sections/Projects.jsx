@@ -29,7 +29,7 @@ const Projects = () => {
       image: 'https://images.pexels.com/photos/5926393/pexels-photo-5926393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       technologies: ['React', 'TailwindCSS', 'Framer Motion'],
       github: 'https://github.com',
-      demo: 'https://demo.com'
+      demo: 'portfolio-react-js-peach-psi.vercel.app'
     }
   ]
 
