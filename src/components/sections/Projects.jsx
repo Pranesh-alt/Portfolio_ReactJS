@@ -28,7 +28,7 @@ const Projects = () => {
       description: 'A responsive portfolio website built with modern technologies to showcase creative work and professional experience.',
       image: 'https://images.pexels.com/photos/5926393/pexels-photo-5926393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       technologies: ['React', 'TailwindCSS', 'Framer Motion'],
-      github: 'https://github.com',
+      github: 'https://github.com/Pranesh-alt/Portfolio_ReactJS',
       demo: 'portfolio-react-js-peach-psi.vercel.app'
     }
   ]
