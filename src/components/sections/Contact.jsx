@@ -74,7 +74,7 @@ const Contact = () => {
       <div className="container-custom">
         <SectionHeading
           title="Get In Touch"
-          subtitle="Have a question or want to work together? Reach out to me."
+
         />
         
         <div className="grid grid-cols-1 lg:grid-cols-5 gap-12 mt-12">
@@ -89,10 +89,7 @@ const Contact = () => {
               Contact Information
             </h3>
             
-            <p className="text-dark-700 dark:text-dark-200 mb-8">
-              Feel free to reach out to me through any of these channels.
-              I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-            </p>
+    
             
             <div className="space-y-6">
               <div className="flex items-start">

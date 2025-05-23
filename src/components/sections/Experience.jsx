@@ -8,7 +8,6 @@ const Experience = () => {
       company: 'Texmo Blank',
       period: '2023 - 2024',
       description: [
-        "Inspected both visual and dimensional aspects of mechanical components",
 
         "Utilized advanced measuring equipment such as FARO gauges and CMMs",
 
@@ -30,7 +29,7 @@ const Experience = () => {
       <div className="container-custom">
         <SectionHeading
           title="Work Experience"
-          subtitle="My professional journey so far"
+  
         />
         
         <div className="max-w-4xl mx-auto mt-12">
