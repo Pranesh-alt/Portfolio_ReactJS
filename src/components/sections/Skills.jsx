@@ -22,7 +22,7 @@ const Skills = () => {
       title: 'FastAPI',
       icon: <SiFastapi className="w-8 h-8 text-white" />,
       level: 65,
-      color: 'bg-blue-600'
+      color: 'bg-green-500'
     },
     {
       title: 'HTML5',
