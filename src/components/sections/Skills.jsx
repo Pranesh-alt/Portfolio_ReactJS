@@ -1,6 +1,6 @@
 import SectionHeading from '../ui/SectionHeading'
 import SkillCard from '../ui/SkillCard'
-import { FaReact, FaJs, FaHtml5, FaCss3Alt, FaFigma, FaNodeJs } from 'react-icons/fa'
+import { FaReact, FaJs, FaHtml5, FaCss3Alt, FaNodeJs } from 'react-icons/fa'
 import { SiPython, SiFastapi, SiGo, SiExpress } from 'react-icons/si'
 import { SiTypescript, SiTailwindcss } from 'react-icons/si'
 
