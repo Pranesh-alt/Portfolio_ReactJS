@@ -49,7 +49,7 @@ const Skills = () => {
       color: 'bg-purple-500'
     },
     {
-      title: 'Node.js',
+      title: 'Node JS',
       icon: <FaNodeJs className="w-8 h-8 text-white" />,
       level: 60,
       color: 'bg-green-600'

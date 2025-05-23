@@ -10,7 +10,7 @@ const Projects = () => {
       title: 'Comics TV',
       description: 'Comics TV is a web application that allows users to watch and manage their favorite comic series.',
       image: 'https://firebasestorage.googleapis.com/v0/b/comics-tv-8e695.appspot.com/o/Images%2FHome%20Page%2FOTT.webp?alt=media&token=d2525093-04c8-458e-ae55-1bd576535940',
-      technologies: [ 'Express Js', 'Node.js', 'MySQL'],
+      technologies: [ 'Express Js', 'Node JS', 'MySQL'],
       github: 'https://github.com/Pranesh-alt/Node-JS-OTT',
       demo: 'https://node-js-ott-6.onrender.com/'
     },
@@ -39,7 +39,7 @@ const Projects = () => {
   const filterCategories = [
     { id: 'all', name: 'All' },
     { id: 'python', name: 'Python' },
-    { id: 'node', name: 'Node.js' },
+    { id: 'node', name: 'Node JS' },
     {id: 'react', name: 'React'}
   ]
 
