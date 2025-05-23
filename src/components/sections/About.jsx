@@ -96,13 +96,16 @@ const About = () => {
               </div>
             </div>
             
-            <Button 
-              variant="primary" 
-              icon={<FaDownload />}
-              iconPosition="left"
-            >
-              Download Resume
-            </Button>
+ <a href="/public/PRANESH_resume.pdf" target="_blank" rel="noopener noreferrer">
+  <Button 
+    variant="primary" 
+    icon={<FaDownload />} 
+    iconPosition="left"
+  >
+    Download Resume
+  </Button>
+</a>
+
           </motion.div>
         </div>
       </div>
