@@ -3,6 +3,12 @@ import SectionHeading from '../ui/SectionHeading'
 import Button from '../ui/Button'
 import { motion } from 'framer-motion'
 import { FaPaperPlane, FaMapMarkerAlt, FaEnvelope, FaPhone } from 'react-icons/fa'
+import emailjs from '@emailjs/browser'
+
+const SERVICE_ID = 'service_v1dg2s8'
+const TEMPLATE_ID = 'template_wtxb83p'
+const PUBLIC_KEY = 'GmGI_huq_ZkOqwsT5'
+
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -33,10 +39,17 @@ const Contact = () => {
       info: { error: false, msg: null }
     })
 
+    const templateParams = {
+      from_name: formData.name,
+      from_email: formData.email,
+      subject: formData.subject,
+      message: formData.message
+    }
+
     try {
       // In a real app, we would send this data to a server or service like EmailJS
       // For demo purposes, we'll just simulate a successful submission
-      await new Promise(resolve => setTimeout(resolve, 1500))
+      await emailjs.send(SERVICE_ID, TEMPLATE_ID, templateParams, PUBLIC_KEY)
       
       setStatus({
         submitted: true,
