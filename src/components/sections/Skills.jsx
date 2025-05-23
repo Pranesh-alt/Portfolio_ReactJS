@@ -9,13 +9,13 @@ const Skills = () => {
     {
       title: 'Python',
       icon: <SiPython className="w-8 h-8 text-white" />,
-      level: 95,
+      level: 85,
       color: 'bg-blue-500'
     },
     {
       title: 'JavaScript',
       icon: <FaJs className="w-8 h-8 text-white" />,
-      level: 90,
+      level: 80,
       color: 'bg-yellow-500'
     },
     {
@@ -27,13 +27,13 @@ const Skills = () => {
     {
       title: 'HTML5',
       icon: <FaHtml5 className="w-8 h-8 text-white" />,
-      level: 95,
+      level: 85,
       color: 'bg-orange-500'
     },
     {
       title: 'CSS3',
       icon: <FaCss3Alt className="w-8 h-8 text-white" />,
-      level: 90,
+      level: 80,
       color: 'bg-blue-400'
     },
     {
@@ -51,7 +51,7 @@ const Skills = () => {
     {
       title: 'Node.js',
       icon: <FaNodeJs className="w-8 h-8 text-white" />,
-      level: 70,
+      level: 60,
       color: 'bg-green-600'
     }
   ]

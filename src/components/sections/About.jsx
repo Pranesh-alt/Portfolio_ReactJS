@@ -45,7 +45,7 @@ const About = () => {
             
             <p className="text-body text-dark-700 dark:text-dark-200 mb-4">
             I'm a passionate backend developer building reliable, scalable systems that power seamless digital experiences.
-            My journey into backend development began in college, where I discovered a deep interest in solving complex problems through clean architecture, data modeling, and efficient server-side logic.
+            My journey into backend development began in Academy, where I discovered a deep interest in solving complex problems through clean architecture, data modeling, and efficient server-side logic.
             </p>
             
           
