@@ -96,7 +96,7 @@ const About = () => {
               </div>
             </div>
             
- <a href="/public/PRANESH_resume.pdf" target="_blank" rel="noopener noreferrer">
+ <a href="https://firebasestorage.googleapis.com/v0/b/comics-tv-8e695.appspot.com/o/Images%2FHome%20Page%2FpRANESH.png?alt=media&token=e3985daa-dc2b-406f-84f0-13cced14c491" target="_blank" rel="noopener noreferrer">
   <Button 
     variant="primary" 
     icon={<FaDownload />} 
