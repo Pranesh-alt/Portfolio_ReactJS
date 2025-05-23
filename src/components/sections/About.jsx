@@ -9,7 +9,7 @@ const About = () => {
       <div className="container-custom">
         <SectionHeading
           title="About Me"
-          subtitle="Get to know more about me and my background"
+    
         />
         
         <div className="grid grid-cols-1 lg:grid-cols-5 gap-12 items-center">
