@@ -39,7 +39,7 @@ const Skills = () => {
     {
       title: 'Go',
       icon: <SiGo className="w-8 h-8 text-white" />,
-      level: 20,
+      level: 30,
       color: 'bg-cyan-500'
     },
     {
