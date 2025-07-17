@@ -33,10 +33,10 @@ const Projects = () => {
     },
     {
       title: 'GO Chat',
-      description: 'A responsive portfolio website built with modern technologies to showcase creative work and professional experience.',
+      description: 'Go Chat App is a real-time chat application built using Go and WebSockets. It allows multiple users to connect, send, and receive messages instantly through a lightweight and efficient backend.',
       image: 'https://images.pexels.com/photos/5926393/pexels-photo-5926393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       technologies: ['React', 'GO'],
-      github: 'https://github.com/Pranesh-alt/Portfolio_ReactJS',
+      github: 'https://github.com/Pranesh-alt/Chat-Application',
       demo: 'https://storied-gelato-850d0c.netlify.app/'
     }
   ]
